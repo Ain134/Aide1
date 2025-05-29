@@ -5,4 +5,4 @@ I'm interested in Python.
 
 취미 페이지 추가
 
-취미 추가
+취미 추가1
